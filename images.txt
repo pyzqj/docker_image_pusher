@@ -1,1 +1,7 @@
 youshandefeiyang/allinone
+homeassistant/home-assistant
+jeessy/ddns-go
+qinmenghua/frpc
+containrrr/watchtower
+stilleshan/frpc
+yuexuangu/allinone_format
