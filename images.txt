@@ -5,3 +5,4 @@ qinmenghua/frpc
 containrrr/watchtower
 stilleshan/frpc
 yuexuangu/allinone_format
+guovern/iptv-api
