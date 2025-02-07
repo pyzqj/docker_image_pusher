@@ -6,4 +6,5 @@ containrrr/watchtower
 stilleshan/frpc
 yuexuangu/allinone_format
 guovern/iptv-api
-guovern/iptv-api
+pixman/pixman
+doubebly/doube-itv
